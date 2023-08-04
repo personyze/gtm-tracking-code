@@ -1,0 +1,5 @@
+homepage: "www.personyze.com"
+documentation: "https://www.personyze.com/website-personalization-tag-manager"
+versions:
+ - sha: 2796b1e5f2cd662efc04d3ed4689449444244f56
+   changeNotes: Initial release.
